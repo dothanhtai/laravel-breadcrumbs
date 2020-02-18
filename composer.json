@@ -1,0 +1,20 @@
+{
+    "name": "nguyen930411/laravel-breadcrumbs",
+    "description": "Laravel 5 Breadcrumbs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nguyen930411",
+            "email": "angel_demon120@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nguyen930411\\Breadcrumbs\\": "src/"
+        }
+    },
+	"minimum-stability": "dev"
+}
