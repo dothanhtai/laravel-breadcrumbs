@@ -1,5 +1,5 @@
 <?php
-namespace Nguyen930411\Breadcrumbs;
+namespace Dothanhtai\Breadcrumbs;
 
 class Facade extends \Illuminate\Support\Facades\Facade
 {
