@@ -1,11 +1,11 @@
 {
-    "name": "nguyen930411/laravel-breadcrumbs",
+    "name": "dothanhtai/laravel-breadcrumbs",
     "description": "Laravel 5 Breadcrumbs",
     "license": "MIT",
     "authors": [
         {
-            "name": "nguyen930411",
-            "email": "angel_demon120@yahoo.com"
+            "name": "dothanhtai",
+            "email": "dothanhtai.c@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nguyen930411\\Breadcrumbs\\": "src/"
+            "dothanhtai\\Breadcrumbs\\": "src/"
         }
     },
 	"minimum-stability": "dev"
