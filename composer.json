@@ -1,6 +1,8 @@
 {
     "name": "dothanhtai/laravel-breadcrumbs",
     "description": "Laravel 5 Breadcrumbs",
+    "keywords": ["laravel","breadcrumbs","laravel-breadcrumbs"],
+    "homepage": "https://github.com/dothanhtai/laravel-breadcrumbs",
     "license": "MIT",
     "authors": [
         {
